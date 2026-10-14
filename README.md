@@ -1,87 +1,74 @@
 <div align="center">
-  <img src="./assets/observatory-banner.svg" alt="Thiago Sathler — Cosmic Observatory" width="100%" />
-
+  <img src="./assets/observatory-banner.svg" alt="Cosmic Observatory — Thiago Sathler" width="100%" />
   <br />
-
-  <samp>✦ INDEPENDENT SIGNAL / TSATHLER ✦</samp>
-
-  <h3>Curiosity is the only roadmap.</h3>
-
-  <p>Systems &nbsp;·&nbsp; Automation &nbsp;·&nbsp; Creative coding &nbsp;·&nbsp; Experiments</p>
-
-  <a href="https://github.com/tsathler?tab=repositories">Explore repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/tsathler/process-garden">Enter the garden</a>
+  <sub><code>PERSONAL LAB / TRANSMISSION ACTIVE</code></sub>
+  <h3>Little experiments. Bigger questions.</h3>
+  <p>I make software, build tools, and follow ideas that refuse to stay on paper.</p>
+  <a href="https://github.com/tsathler?tab=repositories">Browse the lab</a> &nbsp;·&nbsp; <a href="https://github.com/tsathler/process-garden">Visit Process Garden</a>
 </div>
 
 <br />
 
-### `01 / INCOMING TRANSMISSION`
+### `01 / THE PERSON BEHIND THE SIGNAL`
 
-> *Somewhere between a working prototype and a strange idea.*
+I'm **Thiago**, a hobbyist developer who likes taking an interesting idea and seeing how far it can go.
 
-I'm **Thiago**. I build things because I'm curious about how they work — and what they might become.
+My projects move between **creative experiments**, **backend systems**, and **practical automation**. They don't all belong to one category — that's part of the fun. I enjoy the process of making something work, understanding *why* it works, and occasionally giving it a life of its own.
 
-Sometimes it's a useful tool. Sometimes a small digital ecosystem. Sometimes a system that only exists because I wanted to see if I could make it.
+<div align="center">
+  <img src="./assets/orbit-divider.svg" alt="" width="100%" />
+</div>
 
-I like **playful interfaces**, **backend logic**, **automation**, and projects with a personality of their own.
+### `02 / OBJECTS IN ORBIT`
 
-<br />
-
-### `02 / EXPERIMENTS IN ORBIT`
+A few things I've been building and exploring.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/tsathler/process-garden">✦ Process Garden</a></h4>
-      <p>A little digital ecosystem where processes become living things.</p>
-      <sub>EXPERIMENT / CREATIVE SYSTEMS</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/tsathler/bookstack-docker-compose">✦ BookStack Docker Compose</a></h4>
-      <p>A reproducible home for documentation, assembled with containers and configuration.</p>
-      <sub>SELF-HOSTING / INFRASTRUCTURE</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/tsathler/glpi-grafana-dashboards">✦ GLPI × Grafana</a></h4>
-      <p>Turning operational information into clearer, more useful dashboards.</p>
-      <sub>TOOLING / VISUALIZATION</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/tsathler/windows-provisioning-toolkit">✦ Windows Provisioning Toolkit</a></h4>
-      <p>Small automations for setting up and maintaining Windows environments.</p>
-      <sub>AUTOMATION / TOOLING</sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+  <strong><a href="https://github.com/tsathler/process-garden">PROCESS GARDEN</a></strong><br/><sub>CREATIVE COMPUTING / EXPERIMENT</sub>
+  <p>An experimental little ecosystem where computer processes take on a life of their own.</p>
+  <a href="https://github.com/tsathler/process-garden">Explore experiment →</a>
+</td>
+<td width="50%" valign="top">
+  <strong><a href="https://github.com/tsathler/glpi-grafana-dashboards">GLPI × GRAFANA</a></strong><br/><sub>DATA / VISUAL SYSTEMS</sub>
+  <p>Dashboards that make technical operations easier to understand at a glance.</p>
+  <a href="https://github.com/tsathler/glpi-grafana-dashboards">Inspect project →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <strong><a href="https://github.com/tsathler/windows-provisioning-toolkit">WINDOWS PROVISIONING TOOLKIT</a></strong><br/><sub>AUTOMATION / UTILITIES</sub>
+  <p>Repeatable setup workflows for Windows machines — fewer manual steps, more consistency.</p>
+  <a href="https://github.com/tsathler/windows-provisioning-toolkit">Inspect toolkit →</a>
+</td>
+<td width="50%" valign="top">
+  <strong><a href="https://github.com/tsathler/bookstack-docker-compose">BOOKSTACK DOCKER COMPOSE</a></strong><br/><sub>SELF-HOSTING / INFRASTRUCTURE</sub>
+  <p>A container-based way to run a place for keeping knowledge organized.</p>
+  <a href="https://github.com/tsathler/bookstack-docker-compose">Inspect setup →</a>
+</td>
+</tr>
 </table>
 
 <br />
 
-### `03 / FREQUENCIES I'M TUNING INTO`
-
-```text
-[ CREATIVE SYSTEMS ] Playful interfaces • interactive experiments
-[ BACKEND SYSTEMS ]  Java • APIs • databases
-[ TOOLMAKING ]      Python • PowerShell • Bash
-[ INFRASTRUCTURE ]  Linux • Docker • Git
-[ NEW IDEAS ]       Whatever seems interesting next
-```
-
-<br />
-
-### `04 / LAB NOTES`
-
-- Small experiments can become interesting worlds.
-- Making something useful and making something fun aren't opposites.
-- Breaking things is sometimes part of understanding them.
-- Finished is good. Curious is better.
-
-<br />
+### `03 / CURRENT COORDINATES`
 
 <div align="center">
-  <img src="./assets/orbit-divider.svg" width="100%" alt="A subtle orbital divider" />
-  <p><samp>END OF TRANSMISSION // BACK TO BUILDING</samp></p>
-  <sub>Made with curiosity, not a content strategy.</sub>
+  <img src="./assets/field-notes.svg" alt="Creative systems, backend and tooling, and automation and infrastructure" width="100%" />
+</div>
+
+I'm exploring **Java and backend development**, experimenting with **Python**, and continuing to work with **Linux, Docker, PowerShell, SQL, and Git**. The tools change depending on the question I'm trying to answer.
+
+<br />
+
+### `04 / FIELD NOTES`
+
+> I don't need every project to become a product. Sometimes understanding something — or making it a little more interesting — is enough.
+
+I like projects that are small enough to start, strange enough to remember, and useful enough to revisit.
+
+<div align="center">
+  <img src="./assets/orbit-divider.svg" alt="" width="100%" />
+  <sub><code>END OF TRANSMISSION / STILL EXPERIMENTING</code></sub>
 </div>
