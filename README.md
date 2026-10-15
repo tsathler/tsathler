@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./observatory-banner.png" alt="Cosmic Observatory — Thiago Sathler" width="100%" />
+  <img src="./cosmic-observatory-v4.png" alt="Cosmic Observatory — Thiago Sathler" width="100%" />
   <br />
   <sub><code>PERSONAL LAB / TRANSMISSION ACTIVE</code></sub>
   <h3>Little experiments. Bigger questions.</h3>
