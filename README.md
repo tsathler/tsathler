@@ -3,17 +3,19 @@
   <br />
   <sub><code>PERSONAL LAB / TRANSMISSION ACTIVE</code></sub>
   <h3>Little experiments. Bigger questions.</h3>
-  <p>I make software, build tools, and follow ideas that refuse to stay on paper.</p>
-  <a href="https://github.com/tsathler?tab=repositories">Browse the lab</a> &nbsp;·&nbsp; <a href="https://github.com/tsathler/process-garden">Visit Process Garden</a>
+  <p>Infrastructure, automation, and software development — with room for unusual ideas.</p>
+  <a href="https://github.com/tsathler?tab=repositories">Browse the projects</a> &nbsp;·&nbsp; <a href="https://github.com/tsathler/process-garden">Visit Process Garden</a>
 </div>
 
 <br />
 
 ### `01 / THE PERSON BEHIND THE SIGNAL`
 
-I'm **Thiago**, a hobbyist developer who likes taking an interesting idea and seeing how far it can go.
+I'm **Thiago**, an IT professional working with **infrastructure, automation, and internal systems**, and expanding my skills in **software engineering and backend development**.
 
-My projects move between **creative experiments**, **backend systems**, and **practical automation**. They don't all belong to one category — that's part of the fun. I enjoy the process of making something work, understanding *why* it works, and occasionally giving it a life of its own.
+My practical work includes Windows and Linux environments, service management tooling, and automation. Outside of that, I build small software experiments to understand how systems behave — and to explore what else they could become.
+
+I care about **clear documentation, reproducible setups, testing, and security-conscious design**. This GitHub is both a record of practical tools and a space to try ideas that don't fit neatly into one category.
 
 <div align="center">
   <img src="./assets/orbit-divider.svg" alt="" width="100%" />
@@ -21,34 +23,36 @@ My projects move between **creative experiments**, **backend systems**, and **pr
 
 ### `02 / OBJECTS IN ORBIT`
 
-A few things I've been building and exploring.
+Selected projects, each at a different stage of the journey.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-  <strong><a href="https://github.com/tsathler/process-garden">PROCESS GARDEN</a></strong><br/><sub>CREATIVE COMPUTING / EXPERIMENT</sub>
-  <p>An experimental little ecosystem where computer processes take on a life of their own.</p>
-  <a href="https://github.com/tsathler/process-garden">Explore experiment →</a>
+  <strong><a href="https://github.com/tsathler/windows-provisioning-toolkit">WINDOWS PROVISIONING TOOLKIT</a></strong><br/><sub>POWERSHELL / AUTOMATION</sub>
+  <p>Modular Windows setup workflows with dry-run execution, logging, reporting, and automated tests.</p>
+  <a href="https://github.com/tsathler/windows-provisioning-toolkit">Explore toolkit →</a>
 </td>
 <td width="50%" valign="top">
-  <strong><a href="https://github.com/tsathler/glpi-grafana-dashboards">GLPI × GRAFANA</a></strong><br/><sub>DATA / VISUAL SYSTEMS</sub>
-  <p>Dashboards that make technical operations easier to understand at a glance.</p>
-  <a href="https://github.com/tsathler/glpi-grafana-dashboards">Inspect project →</a>
+  <strong><a href="https://github.com/tsathler/glpi-grafana-dashboards">GLPI × GRAFANA</a></strong><br/><sub>SQL / OBSERVABILITY</sub>
+  <p>Versioned, read-only SQL dashboards for service desk metrics, with Docker-based provisioning and CI checks.</p>
+  <a href="https://github.com/tsathler/glpi-grafana-dashboards">Explore dashboards →</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <strong><a href="https://github.com/tsathler/windows-provisioning-toolkit">WINDOWS PROVISIONING TOOLKIT</a></strong><br/><sub>AUTOMATION / UTILITIES</sub>
-  <p>Repeatable setup workflows for Windows machines — fewer manual steps, more consistency.</p>
-  <a href="https://github.com/tsathler/windows-provisioning-toolkit">Inspect toolkit →</a>
+  <strong><a href="https://github.com/tsathler/glpi-bookstack-bridge">GLPI × BOOKSTACK BRIDGE</a></strong><br/><sub>PHP / API INTEGRATION</sub>
+  <p>A GLPI 11 plugin for read-only BookStack navigation, with access controls and guarded API connections. In development.</p>
+  <a href="https://github.com/tsathler/glpi-bookstack-bridge">Explore integration →</a>
 </td>
 <td width="50%" valign="top">
-  <strong><a href="https://github.com/tsathler/bookstack-docker-compose">BOOKSTACK DOCKER COMPOSE</a></strong><br/><sub>SELF-HOSTING / INFRASTRUCTURE</sub>
-  <p>A container-based way to run a place for keeping knowledge organized.</p>
-  <a href="https://github.com/tsathler/bookstack-docker-compose">Inspect setup →</a>
+  <strong><a href="https://github.com/tsathler/process-garden">PROCESS GARDEN</a></strong><br/><sub>PYTHON / CREATIVE COMPUTING</sub>
+  <p>An experiment turning process activity into a living ecosystem. The local data collector and API work; the Godot visualization is planned.</p>
+  <a href="https://github.com/tsathler/process-garden">Explore experiment →</a>
 </td>
 </tr>
 </table>
+
+More from the lab: [Linux Monitoring Lab](https://github.com/tsathler/linux-monitoring-lab) · [BookStack Docker Compose](https://github.com/tsathler/bookstack-docker-compose)
 
 <br />
 
@@ -58,7 +62,9 @@ A few things I've been building and exploring.
   <img src="./assets/field-notes.svg" alt="Creative systems, backend and tooling, and automation and infrastructure" width="100%" />
 </div>
 
-I'm exploring **Java and backend development**, experimenting with **Python**, and continuing to work with **Linux, Docker, PowerShell, SQL, and Git**. The tools change depending on the question I'm trying to answer.
+- **Infrastructure & automation:** Windows Server, Linux, Docker, PowerShell, GLPI, Grafana, and SQL.
+- **Software & tooling:** Python, Git/GitHub, REST APIs, and integration work.
+- **Currently learning:** Java, object-oriented programming, and backend engineering.
 
 <br />
 
@@ -66,7 +72,7 @@ I'm exploring **Java and backend development**, experimenting with **Python**, a
 
 > I don't need every project to become a product. Sometimes understanding something — or making it a little more interesting — is enough.
 
-I like projects that are small enough to start, strange enough to remember, and useful enough to revisit.
+The projects here include working tools, validated labs, and experiments still taking shape. Their READMEs explain what has been implemented, tested, and left for later.
 
 <div align="center">
   <img src="./assets/orbit-divider.svg" alt="" width="100%" />
