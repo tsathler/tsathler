@@ -9,6 +9,10 @@
 
 <br />
 
+**Languages:** [English](#english) · [Português](#português)
+
+## English
+
 ### `01 / THE PERSON BEHIND THE SIGNAL`
 
 I'm **Thiago**, an IT professional working with **infrastructure, automation, and internal systems**, and expanding my skills in **software engineering and backend development**.
@@ -82,6 +86,8 @@ The projects here include working tools, validated labs, and experiments still t
 ---
 
 ## Português
+
+[↑ English](#english)
 
 ### Sobre mim
 
