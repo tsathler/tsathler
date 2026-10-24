@@ -78,3 +78,26 @@ The projects here include working tools, validated labs, and experiments still t
   <img src="./assets/orbit-divider.svg" alt="" width="100%" />
   <sub><code>END OF TRANSMISSION / STILL EXPERIMENTING</code></sub>
 </div>
+
+---
+
+## Português
+
+### Sobre mim
+
+Sou profissional de TI com atuação em **infraestrutura, automação e sistemas internos**, enquanto aprofundo meus conhecimentos em **Java e desenvolvimento backend**.
+
+Trabalho com ambientes Windows e Linux, ferramentas de gestão de serviços e automações. Também desenvolvo projetos experimentais para aprender como os sistemas funcionam e explorar ideias criativas.
+
+### Projetos em destaque
+
+| Projeto | Foco |
+| --- | --- |
+| [Windows Provisioning Toolkit](https://github.com/tsathler/windows-provisioning-toolkit) | Automação de estações Windows com PowerShell, testes e simulação |
+| [GLPI Grafana Dashboards](https://github.com/tsathler/glpi-grafana-dashboards) | Indicadores de chamados, SQL somente leitura e observabilidade |
+| [GLPI BookStack Bridge](https://github.com/tsathler/glpi-bookstack-bridge) | Integração de API e navegação de conhecimento no GLPI 11 |
+| [Process Garden](https://github.com/tsathler/process-garden) | Experimento criativo com processos do sistema e Python |
+
+**Tecnologias:** Windows Server, Linux, Docker, PowerShell, SQL, Python, Git, APIs REST e Grafana.
+
+Os repositórios distinguem ferramentas validadas, laboratórios e funcionalidades ainda em desenvolvimento.
