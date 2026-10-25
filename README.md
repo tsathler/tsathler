@@ -1,108 +1,86 @@
 <div align="center">
-  <br />
-  <sub><code>THIAGO SATHLER / PERSONAL WORKSPACE</code></sub>
-  <h3>Building systems. Exploring possibilities.</h3>
-  <p>Infrastructure · Automation · Backend Development</p>
-  <a href="https://github.com/tsathler?tab=repositories">Browse the projects</a> &nbsp;·&nbsp; <a href="https://github.com/tsathler/process-garden">Visit Process Garden</a>
+
+# Thiago Sathler
+
+**IT Infrastructure · Automation · Backend Development**
+
+*Curiosity is the starting point. Building is how I learn.*
+
+[Projects](#selected-projects) · [Technical focus](#technical-focus) · [Português](#português)
+
 </div>
 
-<br />
+---
 
-**Languages:** [English](#english) · [Português](#português)
+## About me
 
-## English
+I work with **IT infrastructure, systems administration, and automation**, supporting and improving real-world environments. My experience includes Windows and Linux systems, identity and access management, service management platforms, and technical integrations.
 
-### `01 / ABOUT ME`
+I'm currently studying **Cybersecurity** and developing my software engineering skills, with an emphasis on **Java, object-oriented programming, and backend development**.
 
-I'm **Thiago**, an IT professional working with **infrastructure, automation, and internal systems**, and expanding my skills in **software engineering and backend development**.
+I use this space to share practical tools, reproducible labs, and experiments. I care about clear documentation, maintainable solutions, testing, and security by design.
 
-My work spans Windows and Linux environments, service management, integrations, and automation. I also build software experiments to understand systems more deeply, with a growing focus on Java and backend development.
+## Selected projects
 
-I value **clear documentation, reproducible environments, testing, and security-minded engineering**. This profile brings together useful tools, technical labs, and exploratory projects.
+| Project | What it explores |
+| :--- | :--- |
+| **[Windows Provisioning Toolkit](https://github.com/tsathler/windows-provisioning-toolkit)** | PowerShell workflows for Windows setup, including dry runs, logging, reporting, and tests. |
+| **[GLPI × Grafana Dashboards](https://github.com/tsathler/glpi-grafana-dashboards)** | Read-only SQL dashboards, service management metrics, and Docker-based provisioning. |
+| **[GLPI × BookStack Bridge](https://github.com/tsathler/glpi-bookstack-bridge)** | An in-development GLPI 11 plugin exploring knowledge-base integration through APIs. |
+| **[Process Garden](https://github.com/tsathler/process-garden)** | A Python experiment that transforms system process activity into data for a future interactive visualization. |
 
-<div align="center">
-  <hr />
-</div>
+**Other projects:** [Linux Monitoring Lab](https://github.com/tsathler/linux-monitoring-lab) · [BookStack Docker Compose](https://github.com/tsathler/bookstack-docker-compose) · [All repositories](https://github.com/tsathler?tab=repositories)
 
-### `02 / SELECTED PROJECTS`
+## Technical focus
 
-Selected projects combining practical engineering and experimentation.
+| Area | Technologies and interests |
+| :--- | :--- |
+| **Infrastructure & systems** | Windows Server, Active Directory, Linux, Microsoft 365, Docker |
+| **Automation & operations** | PowerShell, scripting, GLPI, monitoring, Grafana, SQL |
+| **Development & integration** | Python, Git, REST APIs, PHP integrations |
+| **Learning now** | Java, OOP, backend fundamentals, software architecture |
+| **Engineering practices** | Documentation, reproducibility, testing, access control |
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <strong><a href="https://github.com/tsathler/windows-provisioning-toolkit">WINDOWS PROVISIONING TOOLKIT</a></strong><br/><sub>POWERSHELL / AUTOMATION</sub>
-  <p>Modular Windows setup workflows with dry-run execution, logging, reporting, and automated tests.</p>
-  <a href="https://github.com/tsathler/windows-provisioning-toolkit">Explore toolkit →</a>
-</td>
-<td width="50%" valign="top">
-  <strong><a href="https://github.com/tsathler/glpi-grafana-dashboards">GLPI × GRAFANA</a></strong><br/><sub>SQL / OBSERVABILITY</sub>
-  <p>Versioned, read-only SQL dashboards for service desk metrics, with Docker-based provisioning and CI checks.</p>
-  <a href="https://github.com/tsathler/glpi-grafana-dashboards">Explore dashboards →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <strong><a href="https://github.com/tsathler/glpi-bookstack-bridge">GLPI × BOOKSTACK BRIDGE</a></strong><br/><sub>PHP / API INTEGRATION</sub>
-  <p>A GLPI 11 plugin for read-only BookStack navigation, with access controls and guarded API connections. In development.</p>
-  <a href="https://github.com/tsathler/glpi-bookstack-bridge">Explore integration →</a>
-</td>
-<td width="50%" valign="top">
-  <strong><a href="https://github.com/tsathler/process-garden">PROCESS GARDEN</a></strong><br/><sub>PYTHON / CREATIVE COMPUTING</sub>
-  <p>An experiment turning process activity into a living ecosystem. The local data collector and API work; the Godot visualization is planned.</p>
-  <a href="https://github.com/tsathler/process-garden">Explore experiment →</a>
-</td>
-</tr>
-</table>
+## How I build
 
-More from the lab: [Linux Monitoring Lab](https://github.com/tsathler/linux-monitoring-lab) · [BookStack Docker Compose](https://github.com/tsathler/bookstack-docker-compose)
-
-<br />
-
-### `03 / TECH & CURRENT FOCUS`
-
-<div align="center">
-  <sub><code>SYSTEMS / CODE / AUTOMATION</code></sub>
-</div>
-
-- **Infrastructure & automation:** Windows Server, Linux, Docker, PowerShell, GLPI, Grafana, and SQL.
-- **Software & tooling:** Python, Git/GitHub, REST APIs, and integration work.
-- **Currently learning:** Java, object-oriented programming, and backend engineering.
-
-<br />
-
-### `04 / HOW I WORK`
-
-> Curiosity drives the experiments. Clarity makes the results useful.
-
-The projects here include working tools, validated labs, and experiments still taking shape. Their READMEs explain what has been implemented, tested, and left for later.
-
-<div align="center">
-  <hr />
-  <sub><code>LEARN / BUILD / IMPROVE</code></sub>
-</div>
+I prefer small, understandable steps: document the problem, build a working version, validate its behavior, and improve it iteratively. Projects may be production-oriented tools, learning labs, or early experiments; each repository should make its maturity and limitations clear.
 
 ---
 
 ## Português
 
-[↑ English](#english)
-
 ### Sobre mim
 
-Sou profissional de TI com atuação em **infraestrutura, automação e sistemas internos**, enquanto aprofundo meus conhecimentos em **Java e desenvolvimento backend**.
+Atuo com **infraestrutura de TI, administração de sistemas e automação**, contribuindo para a operação e a melhoria de ambientes reais. Minha experiência inclui Windows e Linux, identidade e controle de acesso, plataformas de gestão de serviços e integrações técnicas.
 
-Trabalho com ambientes Windows e Linux, ferramentas de gestão de serviços e automações. Também desenvolvo projetos experimentais para aprender como os sistemas funcionam e explorar ideias criativas.
+Atualmente curso **Cibersegurança** e aprofundo meus conhecimentos em **Java, programação orientada a objetos e desenvolvimento backend**.
+
+Este GitHub reúne ferramentas práticas, laboratórios reproduzíveis e projetos experimentais. Valorizo documentação clara, soluções sustentáveis, testes e segurança desde a concepção.
 
 ### Projetos em destaque
 
-| Projeto | Foco |
-| --- | --- |
-| [Windows Provisioning Toolkit](https://github.com/tsathler/windows-provisioning-toolkit) | Automação de estações Windows com PowerShell, testes e simulação |
-| [GLPI Grafana Dashboards](https://github.com/tsathler/glpi-grafana-dashboards) | Indicadores de chamados, SQL somente leitura e observabilidade |
-| [GLPI BookStack Bridge](https://github.com/tsathler/glpi-bookstack-bridge) | Integração de API e navegação de conhecimento no GLPI 11 |
-| [Process Garden](https://github.com/tsathler/process-garden) | Experimento criativo com processos do sistema e Python |
+| Projeto | Descrição |
+| :--- | :--- |
+| **[Windows Provisioning Toolkit](https://github.com/tsathler/windows-provisioning-toolkit)** | Automação de configuração Windows com PowerShell, simulação, logs e testes. |
+| **[GLPI × Grafana Dashboards](https://github.com/tsathler/glpi-grafana-dashboards)** | Dashboards SQL somente leitura, métricas de atendimento e provisionamento com Docker. |
+| **[GLPI × BookStack Bridge](https://github.com/tsathler/glpi-bookstack-bridge)** | Plugin para GLPI 11 em desenvolvimento, com foco na integração de bases de conhecimento via API. |
+| **[Process Garden](https://github.com/tsathler/process-garden)** | Experimento em Python que coleta dados de processos para uma futura visualização interativa. |
 
-**Tecnologias:** Windows Server, Linux, Docker, PowerShell, SQL, Python, Git, APIs REST e Grafana.
+**Outros projetos:** [Linux Monitoring Lab](https://github.com/tsathler/linux-monitoring-lab) · [BookStack Docker Compose](https://github.com/tsathler/bookstack-docker-compose) · [Todos os repositórios](https://github.com/tsathler?tab=repositories)
 
-Os repositórios distinguem ferramentas validadas, laboratórios e funcionalidades ainda em desenvolvimento.
+### Áreas de atuação e estudo
+
+- **Infraestrutura:** Windows Server, Active Directory, Linux, Microsoft 365 e Docker.
+- **Automação e operações:** PowerShell, GLPI, monitoramento, Grafana e SQL.
+- **Desenvolvimento e integração:** Python, Git, APIs REST e integrações PHP.
+- **Em aprendizado:** Java, POO, fundamentos de backend e arquitetura de software.
+
+Procuro documentar decisões, validar resultados e diferenciar claramente ferramentas funcionais, laboratórios e recursos ainda em desenvolvimento.
+
+<div align="center">
+
+---
+
+<sub>BUILD · TEST · LEARN · IMPROVE</sub>
+
+</div>
