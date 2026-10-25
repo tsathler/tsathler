@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./cosmic-observatory-v4.png" alt="Thiago Sathler — monochrome cosmic banner" width="100%" />
   <br />
   <sub><code>THIAGO SATHLER / PERSONAL WORKSPACE</code></sub>
   <h3>Building systems. Exploring possibilities.</h3>
