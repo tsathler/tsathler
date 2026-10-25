@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./cosmic-observatory-v4.png" alt="Cosmic Observatory — Thiago Sathler" width="100%" />
+  <img src="./cosmic-observatory-v4.png" alt="Thiago Sathler — monochrome cosmic banner" width="100%" />
   <br />
-  <sub><code>PERSONAL LAB / TRANSMISSION ACTIVE</code></sub>
-  <h3>Little experiments. Bigger questions.</h3>
-  <p>Infrastructure, automation, and software development — with room for unusual ideas.</p>
+  <sub><code>THIAGO SATHLER / PERSONAL WORKSPACE</code></sub>
+  <h3>Building systems. Exploring possibilities.</h3>
+  <p>Infrastructure · Automation · Backend Development</p>
   <a href="https://github.com/tsathler?tab=repositories">Browse the projects</a> &nbsp;·&nbsp; <a href="https://github.com/tsathler/process-garden">Visit Process Garden</a>
 </div>
 
@@ -13,21 +13,21 @@
 
 ## English
 
-### `01 / THE PERSON BEHIND THE SIGNAL`
+### `01 / ABOUT ME`
 
 I'm **Thiago**, an IT professional working with **infrastructure, automation, and internal systems**, and expanding my skills in **software engineering and backend development**.
 
-My practical work includes Windows and Linux environments, service management tooling, and automation. Outside of that, I build small software experiments to understand how systems behave — and to explore what else they could become.
+My work spans Windows and Linux environments, service management, integrations, and automation. I also build software experiments to understand systems more deeply, with a growing focus on Java and backend development.
 
-I care about **clear documentation, reproducible setups, testing, and security-conscious design**. This GitHub is both a record of practical tools and a space to try ideas that don't fit neatly into one category.
+I value **clear documentation, reproducible environments, testing, and security-minded engineering**. This profile brings together useful tools, technical labs, and exploratory projects.
 
 <div align="center">
-  <img src="./assets/orbit-divider.svg" alt="" width="100%" />
+  <hr />
 </div>
 
-### `02 / OBJECTS IN ORBIT`
+### `02 / SELECTED PROJECTS`
 
-Selected projects, each at a different stage of the journey.
+Selected projects combining practical engineering and experimentation.
 
 <table>
 <tr>
@@ -60,10 +60,10 @@ More from the lab: [Linux Monitoring Lab](https://github.com/tsathler/linux-moni
 
 <br />
 
-### `03 / CURRENT COORDINATES`
+### `03 / TECH & CURRENT FOCUS`
 
 <div align="center">
-  <img src="./assets/field-notes.svg" alt="Creative systems, backend and tooling, and automation and infrastructure" width="100%" />
+  <sub><code>SYSTEMS / CODE / AUTOMATION</code></sub>
 </div>
 
 - **Infrastructure & automation:** Windows Server, Linux, Docker, PowerShell, GLPI, Grafana, and SQL.
@@ -72,15 +72,15 @@ More from the lab: [Linux Monitoring Lab](https://github.com/tsathler/linux-moni
 
 <br />
 
-### `04 / FIELD NOTES`
+### `04 / HOW I WORK`
 
-> I don't need every project to become a product. Sometimes understanding something — or making it a little more interesting — is enough.
+> Curiosity drives the experiments. Clarity makes the results useful.
 
 The projects here include working tools, validated labs, and experiments still taking shape. Their READMEs explain what has been implemented, tested, and left for later.
 
 <div align="center">
-  <img src="./assets/orbit-divider.svg" alt="" width="100%" />
-  <sub><code>END OF TRANSMISSION / STILL EXPERIMENTING</code></sub>
+  <hr />
+  <sub><code>LEARN / BUILD / IMPROVE</code></sub>
 </div>
 
 ---
